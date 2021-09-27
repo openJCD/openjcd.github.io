@@ -3,7 +3,7 @@
     --fg-primary: rgb(189, 189, 189);    
 }
 
-body {
+* {
     background-color: var(bg-primary);
     color: var(fg-primary)
 }
